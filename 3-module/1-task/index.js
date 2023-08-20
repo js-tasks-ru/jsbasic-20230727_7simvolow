@@ -1,3 +1,4 @@
 function namify(users) {
-  return result = users.map(user => user.name);
+  let result = users.map(user => user.name);
+  return result;
 };
